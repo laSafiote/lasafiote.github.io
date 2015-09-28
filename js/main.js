@@ -29,6 +29,7 @@ $('.navbar-collapse ul li a').click(function() {
     $('.navbar-toggle:visible').click();
 });
 
+/**
 function displayInterstitial(){
     if (window.mmAPI) {
         window.mmAPI.placeAd({
@@ -78,3 +79,5 @@ if (window.mmAPI) {
         allowLocation: true
     });
 }
+
+**/
